@@ -27,6 +27,10 @@
     src: url("../fonts/UbuntuMono-Regular.ttf");
 }
 
+html {
+    background: #fff;
+}
+
 body {
     display: flex;
     flex-direction: column;
