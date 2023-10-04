@@ -111,6 +111,19 @@ nav a:hover::after {
     opacity: 1;
 }
 
+.logo h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Fira Code', monospace;
+    font-weight: 900;
+}
+
+.logo span {
+    display: inline-block;
+    color: #f55;
+}
+
 section {
     height: 100%;
 
